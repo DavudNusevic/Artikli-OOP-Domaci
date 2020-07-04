@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artikli-OOP-domaci", "Artikli-OOP-domaci.csproj", "{9E3E83CF-C544-46CA-A08E-956A41E8B7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3E83CF-C544-46CA-A08E-956A41E8B7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3E83CF-C544-46CA-A08E-956A41E8B7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3E83CF-C544-46CA-A08E-956A41E8B7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3E83CF-C544-46CA-A08E-956A41E8B7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A2ECD97-E5C4-4A72-86A5-DEA29B26E73B}
+	EndGlobalSection
+EndGlobal
